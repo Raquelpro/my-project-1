@@ -8,3 +8,7 @@ body {
     rgb(86, 255, 248) 68.5%
   );
 }
+
+.code {
+  text-decoration: none;
+}
