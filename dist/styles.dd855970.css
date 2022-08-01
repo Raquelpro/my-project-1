@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+  height: 1000px;
+  display: block;
+  background: linear-gradient(
+    109.5deg,
+    rgb(13, 11, 136) 9.4%,
+    rgb(86, 255, 248) 68.5%
+  );
+}
+
+.code {
+  text-decoration: none;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
